@@ -30,6 +30,7 @@
 
 ## Tareas a realizar
 
+* ***Importante***: de los datos originales, hay que quitar todas las variables meteorológicas que no correspondan a la localización de Sotavento (la localización 13).
 * [ ] (0.3 puntos) Realizar un **EDA simplificado**:
   * [ ] ¿Cuántas características e instancias hay?
   * [ ] ¿Qué variables son categóricas/numéricas?
@@ -74,11 +75,6 @@
   prompts (y respuestas) relevantes, casos en los que ChatGPT estaba equivocado, etc. **No más de 2
   páginas en el informe.**
 * [ ] (0.5 puntos) Este punto se supone que lo tengo yo completo porque he hecho el trabajo solo. Es el de hacer commits al github semanal cada uno, pero al final lo he hecho solo el trabajo
-
-### Datos relevantes dentro de las tareas
-
-- La variable de respuesta es "*energía*".
-- ***Importante***: de los datos originales, hay que quitar todas las variables meteorológicas que no correspondan a la localización de Sotavento (la localización 13).
 
 ## Nombres de los atributos/variables de entrada al modelo
 
