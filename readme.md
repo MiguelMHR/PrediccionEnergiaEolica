@@ -82,25 +82,25 @@
 
 ## Nombres de los atributos/variables de entrada al modelo
 
-• **t2m**: 2 metre temperature `<br>`
-• **u10**: 10 metre U wind component `<br>`
-• **v10**: 10 metre V wind component `<br>`
-• **u100**: 100 metre U wind component `<br>`
-• **v100**: 100 metre V wind component `<br>`
-• **cape**: Convective available potential energy `<br>`
-• **flsr**: Forecast logarithm of surface roughness for heat `<br>`
-• **fsr**: Forecast surface roughness `<br>`
-• **iews**: Instantaneous eastward turbulent surface stress `<br>`
-• **inss**: Instantaneous northward turbulent surface `<br>`
-• **lai_hv**: Leaf area index, high vegetation `<br>`
-• **lai_lv**: Leaf area index, low vegetation `<br>`
-• **u10n**: Neutral wind at 10 m u-component `<br>`
-• **v10n**: Neutral wind at 10 m v-component `<br>`
-• **stl1**: Soil temperature level 1 `<br>`
-• **stl2**: Soil temperature level 2 `<br>`
-• **stl3**: Soil temperature level 3 `<br>`
-• **stl4**: Soil temperature level 4 `<br>`
-• **sp**: Surface pressure `<br>`
-• **p54.162**: Vertical integral of temperature `<br>`
-• **p59.162**: Vertical integral of divergence of kinetic energy `<br>`
-• **p55.162**: Vertical integral of water vapour `<br>`
+• **t2m**: 2 metre temperature
+• **u10**: 10 metre U wind component
+• **v10**: 10 metre V wind component
+• **u100**: 100 metre U wind component
+• **v100**: 100 metre V wind component
+• **cape**: Convective available potential energy
+• **flsr**: Forecast logarithm of surface roughness for heat
+• **fsr**: Forecast surface roughness
+• **iews**: Instantaneous eastward turbulent surface stress
+• **inss**: Instantaneous northward turbulent surface
+• **lai_hv**: Leaf area index, high vegetation
+• **lai_lv**: Leaf area index, low vegetation
+• **u10n**: Neutral wind at 10 m u-component
+• **v10n**: Neutral wind at 10 m v-component
+• **stl1**: Soil temperature level 1
+• **stl2**: Soil temperature level 2
+• **stl3**: Soil temperature level 3
+• **stl4**: Soil temperature level 4
+• **sp**: Surface pressure
+• **p54.162**: Vertical integral of temperature
+• **p59.162**: Vertical integral of divergence of kinetic energy
+• **p55.162**: Vertical integral of water vapour
