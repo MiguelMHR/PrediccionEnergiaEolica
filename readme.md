@@ -17,12 +17,12 @@
     # No poseen la variable de respuesta ya que debe ser el modelo final el que lo prediga
     ```
 
-## Estructura:
+## Estructura
 
 * Código con **3 notebooks:**
-  * *EDA_analisis.ipynb* : contiene todo el EDA y el análisis de los modelos (predicciones y selección mejor modelo)
-  * *modelo_final.ipynb* : contiene el modelo final y la ejecución del mismo con los datos a predecir
-  * *sol_problema_class.ipynb* : contiene la resolución del problema de clasificación
+  * *EDA_analisis.ipynb* : contiene todo el EDA y el análisis de los modelos (predicciones y selección mejor modelo) -> del 1 al 6.1 (menos el 5.d)
+  * *modelo_final.ipynb* : carga el modelo final y la ejecución del mismo con los datos a predecir (5.d)
+  * *sol_problema_class.ipynb* : contiene la resolución del problema de clasificación -> segunda parte del 6
 * **Otros archivos:**
   * Los archivos siguientes se almacenarán en un ZIP
     * *predicciones.csv* : contiene las predicciones generadas
@@ -31,6 +31,7 @@
 ## Tareas a realizar
 
 * ***Importante***: de los datos originales, hay que quitar todas las variables meteorológicas que no correspondan a la localización de Sotavento (la localización 13).
+
 * [ ] (0.3 puntos) Realizar un **EDA simplificado**:
   * [ ] ¿Cuántas características e instancias hay?
   * [ ] ¿Qué variables son categóricas/numéricas?
