@@ -25,7 +25,7 @@
   * *sol_problema_class.ipynb* : contiene la resolución del problema de clasificación -> segunda parte del 6
 * **Otros archivos:**
   * Los archivos siguientes se almacenarán en un ZIP
-    * *predicciones.csv* : contiene las predicciones generadas
+    * *predicciones.csv* : contiee las predicciones generadas
     * *modelo_final.plk* : archivo que corresponde al modelo final generado
 
 ## Tareas a realizar
